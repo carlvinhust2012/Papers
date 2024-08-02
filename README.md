@@ -1,2 +1,2 @@
 # Papers
-this directory is used for store some papers.
+this directory is used to store some papers.
